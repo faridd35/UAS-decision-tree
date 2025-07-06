@@ -1,0 +1,615 @@
+JenisKelamin,StatusPernikahan,JumTanggungan,Wiraswasta,IncomeNasabah,IncomePasangan,JumlahPinjaman,JangkaWaktuPinjaman,riwayat_pinjaman,Pendidikan_Tinggi,Wilayah_Tempat_Tinggal,StatusPinjaman
+Laki-laki,Belum Menikah,0,Tidak,5849,0,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,4583,1508,128.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,3000,0,66.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2583,2358,120.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6000,0,141.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,5417,4196,267.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2333,1516,95.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3036,2504,158.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,4006,1526,168.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,12841,10968,349.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3200,700,70.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2500,1840,109.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3073,8106,200.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,1853,2840,114.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,1299,1086,17.0,120.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4950,0,125.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,1,Tidak,3596,0,100.0,240.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,3510,0,76.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,4887,0,133.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2600,3500,115.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,7660,0,104.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,5955,5625,315.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2600,1911,116.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3365,1917,112.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3717,2925,151.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,9560,0,191.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2799,2253,122.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4226,1040,110.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,1442,0,35.0,360.0,memenuhi,Ya,perkotaan,Tidak
+Wanita,Belum Menikah,2,Tidak,3750,2083,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,4166,3369,201.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3167,0,74.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,1,Ya,4692,0,106.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3500,1667,114.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,3,Tidak,12500,3000,320.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2275,2067,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1828,1330,100.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,3667,1459,144.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4166,7210,184.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3748,1668,110.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3600,0,80.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,1800,1213,47.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2400,0,75.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3941,2336,134.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,4695,0,96.0,360.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,3410,0,88.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,5649,0,44.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5821,0,144.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,2645,3440,120.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,4000,2275,144.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,1928,1644,100.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3086,0,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,4230,0,112.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,4616,0,134.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Sudah Menikah,1,Ya,11500,0,286.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,2708,1167,97.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2132,1591,96.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3366,2200,135.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,8080,2250,180.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3357,2859,144.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2500,3796,120.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3029,0,99.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,2609,3449,165.0,180.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,4945,0,128.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,4166,0,116.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,5726,4595,258.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3200,2254,126.0,180.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,10750,0,312.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Ya,7100,0,125.0,60.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,4300,0,136.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3208,3066,172.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,1875,1875,97.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3500,0,81.0,300.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4755,0,95.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Ya,5266,1774,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3750,0,113.0,480.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3750,4750,176.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Ya,1000,3022,110.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,3167,4000,180.0,300.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Ya,3333,2166,130.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3846,0,111.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,2395,0,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,2,Tidak,1378,1881,167.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,6000,2250,265.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3988,0,50.0,240.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2366,2531,136.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3333,2000,99.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2500,2118,104.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,8566,0,210.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5695,4167,175.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2958,2900,131.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,6250,5654,188.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3273,1820,81.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4133,0,122.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3620,0,25.0,120.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6782,0,128.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,2484,2302,137.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1977,997,50.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4188,0,115.0,180.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1759,3541,131.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4288,3263,133.0,180.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4843,3806,151.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,13650,0,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4652,3583,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3816,754,160.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3052,1030,100.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,11417,1126,225.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,7333,0,120.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3800,3600,216.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,2071,754,94.0,480.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,5316,0,136.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,2929,2333,139.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3572,4114,152.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Wanita,Belum Menikah,1,Ya,7451,0,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,5050,0,118.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,14583,0,185.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,3167,2283,154.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2214,1398,85.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5568,2142,175.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,10408,0,259.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5667,2667,180.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,4166,0,44.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2137,8980,137.0,360.0,tidak memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2957,0,81.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4300,2014,194.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3692,0,93.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,23803,0,370.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3865,1640,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,10513,3850,160.0,180.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,6080,2569,182.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Ya,20166,0,650.0,480.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2014,1929,74.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2718,0,70.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,3459,0,25.0,120.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4895,0,102.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4000,7750,290.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,4583,0,84.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Ya,3316,3500,88.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,14999,0,242.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,4200,1430,129.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,5042,2083,185.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,5417,0,168.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Ya,6950,0,175.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2698,2034,122.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,11757,0,187.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,2330,4486,100.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,2,Tidak,14866,0,70.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,1538,1425,30.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,10000,1666,225.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,4860,830,125.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6277,0,118.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,2577,3750,152.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,9166,0,244.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,2281,0,113.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3254,0,50.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,39999,0,600.0,180.0,tidak memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,6000,0,160.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,9538,0,187.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2980,2083,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4583,5625,255.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1863,1041,98.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,7933,0,275.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3089,1280,121.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,4167,1447,158.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,9323,0,75.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3707,3166,182.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,4583,0,112.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2439,3333,129.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2237,0,63.0,480.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,8000,0,200.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1820,1769,95.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,51763,0,700.0,300.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3522,0,81.0,180.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,5708,5625,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,4344,736,87.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3497,1964,116.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2045,1619,101.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,5516,11300,495.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3750,0,116.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2333,1451,102.0,480.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,6400,7250,180.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,1916,5063,67.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,4600,0,73.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,33846,0,260.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,3625,0,108.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,39147,4750,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,2178,0,66.0,300.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2383,2138,58.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,674,5296,168.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,9328,0,188.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4885,0,48.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,12000,0,164.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,6033,0,160.0,360.0,memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3858,0,76.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4191,0,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3125,2583,170.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,8333,3750,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,1907,2365,120.0,360.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,3416,2816,113.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,11000,0,83.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,2600,2500,90.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,2,Tidak,4923,0,166.0,360.0,tidak memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3992,0,128.0,180.0,memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3500,1083,135.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3917,0,124.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,4408,0,120.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3244,0,80.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3975,2531,55.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2479,0,59.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3418,0,127.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,10000,0,214.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,3430,1250,128.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Ya,7787,0,240.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Ya,5703,0,130.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3173,3021,137.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3850,983,100.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,150,1800,135.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3727,1775,131.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,5000,0,72.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Sudah Menikah,2,Tidak,4283,2383,127.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2221,0,60.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,4009,1717,116.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2971,2791,144.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,7578,1010,175.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,6250,0,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3250,0,170.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,4735,0,138.0,360.0,memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,6250,1695,210.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4758,0,158.0,480.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,6400,0,200.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2491,2054,104.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3716,0,42.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3189,2598,120.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,8333,0,280.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3155,1779,140.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,5500,1260,170.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5746,0,255.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,0,Ya,3463,0,122.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,1,Tidak,3812,0,112.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3315,0,96.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,5819,5000,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2510,1983,140.0,180.0,memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2965,5701,155.0,60.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,6250,1300,108.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3406,4417,123.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,6050,4333,120.0,180.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,9703,0,112.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,6608,0,137.0,180.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2882,1843,123.0,480.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1809,1868,90.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1668,3890,201.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Wanita,Belum Menikah,2,Tidak,3427,0,138.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Ya,2583,2167,104.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2661,7101,279.0,180.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,16250,0,192.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,3,Tidak,3083,0,255.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6045,0,115.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,5250,0,94.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,14683,2100,304.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,4931,0,128.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,6083,4250,330.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2060,2209,134.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,1,Tidak,3481,0,155.0,36.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,7200,0,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,5166,0,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4095,3447,151.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4708,1387,150.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4333,1811,160.0,360.0,tidak memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,3418,0,135.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,1,Tidak,2876,1560,90.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,3237,0,30.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,11146,0,136.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2833,1857,126.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2620,2223,150.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3900,0,90.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2750,1842,115.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3993,3274,207.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3103,1300,80.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,14583,0,436.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,4100,0,124.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,1,Ya,4053,2426,158.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3927,800,112.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2301,986,78.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,1811,1666,54.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,20667,0,128.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3158,3053,89.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Ya,2600,1717,99.0,300.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3704,2000,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,4124,0,115.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,9508,0,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3075,2416,139.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4400,0,127.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3153,1560,134.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,5417,0,143.0,480.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2383,3334,172.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4416,1250,110.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,6875,0,200.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,1,Tidak,4666,0,135.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,5000,2541,151.0,480.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,2014,2925,113.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,1800,2934,93.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2875,1750,105.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,5000,0,132.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,1625,1803,96.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4000,2500,140.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2000,0,128.0,360.0,memenuhi,Ya,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,3762,1666,135.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2400,1863,104.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,20233,0,480.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,7667,0,185.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2917,0,84.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2927,2405,111.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2507,0,56.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,5746,0,144.0,84.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2473,1843,159.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3399,1640,111.0,180.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3717,0,120.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2058,2134,88.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,1,Tidak,3541,0,112.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,10000,0,155.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2400,2167,115.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4342,189,124.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3601,1590,128.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3166,2985,132.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,15000,0,300.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,8666,4983,376.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,4917,0,130.0,360.0,tidak memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,5818,2160,184.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,4333,2451,110.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,2500,0,67.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,1,Tidak,4384,1793,117.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2935,0,98.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2833,0,71.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,63337,0,490.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,9833,1833,182.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,5503,4490,70.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,5250,688,160.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,2500,4600,176.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,3,Tidak,1830,0,128.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,4160,0,71.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,2647,1587,173.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,2378,0,46.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,4554,1229,158.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3173,0,74.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2583,2330,125.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2499,2458,160.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3523,3230,152.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3083,2168,126.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,6333,4583,259.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2625,6250,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,9083,0,228.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,8750,4167,308.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,2666,2083,95.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Ya,5500,0,105.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,2423,505,130.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3813,0,116.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,8333,3167,165.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3875,0,67.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3000,1666,100.0,480.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,5167,3167,200.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,1,Tidak,4723,0,81.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,5000,3667,236.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4750,2333,130.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3013,3033,95.0,300.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Ya,6822,0,141.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6216,0,133.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2500,0,96.0,480.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,5124,0,124.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,6325,0,175.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,19730,5266,570.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Ya,15759,0,55.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,5185,0,155.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,9323,7873,380.0,300.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,1,Tidak,3062,1987,111.0,180.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,2764,1459,110.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4817,923,120.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,8750,4996,130.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4310,0,130.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3069,0,71.0,480.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,5391,0,130.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3333,2500,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,5941,4232,296.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,6000,0,156.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Ya,7167,0,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4566,0,100.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,1,Tidak,3667,0,113.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2346,1600,132.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3010,3136,128.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2333,2417,136.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5488,0,125.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,3,Tidak,9167,0,185.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,9504,0,275.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2583,2115,120.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,1993,1625,113.0,180.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3100,1400,113.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3276,484,135.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3180,0,71.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3033,1459,95.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3902,1666,109.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,1500,1800,103.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,2889,0,45.0,180.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2755,0,65.0,300.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2500,20000,103.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,1963,0,53.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Ya,7441,0,194.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,4547,0,115.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2167,2400,115.0,360.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,2213,0,66.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,8300,0,152.0,300.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,81000,0,360.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,1,Ya,3867,0,62.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,6256,0,160.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,6096,0,218.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2253,2033,110.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,2149,3237,178.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,2995,0,60.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,1,Tidak,2600,0,160.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Ya,1600,20000,239.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,1025,2773,112.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3246,1417,138.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5829,0,138.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2720,0,80.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,1820,1719,100.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,7250,1667,110.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,14880,0,96.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2666,4300,121.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,1,Tidak,4606,0,81.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,5935,0,133.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2920,16,87.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2717,0,60.0,180.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Belum Menikah,1,Ya,8624,0,150.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6500,0,105.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,12876,0,405.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2425,2340,143.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3750,0,100.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,10047,0,128.0,240.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,1926,1851,50.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2213,1125,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Ya,10416,0,187.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Wanita,Sudah Menikah,0,Ya,7142,0,138.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3660,5064,187.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,7901,1833,180.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,3,Tidak,4707,1993,148.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,1,Tidak,37719,0,152.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,7333,8333,175.0,300.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,3466,1210,130.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4652,0,110.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3539,1376,55.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3340,1710,150.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,1,Ya,2769,1542,190.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,2309,1255,125.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,1958,1456,60.0,300.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3948,1733,149.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2483,2466,90.0,180.0,tidak memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,7085,0,84.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3859,0,96.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4301,0,118.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3708,2569,173.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,2,Tidak,4354,0,136.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,8334,0,160.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,2083,4083,160.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,7740,0,128.0,180.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3015,2188,153.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,1,Tidak,5191,0,132.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4166,0,98.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,6000,0,140.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,2947,1664,70.0,180.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,16692,0,110.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,2,Tidak,210,2917,98.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4333,2451,110.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Ya,3450,2079,162.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2653,1500,113.0,180.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,4691,0,100.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Ya,2500,0,93.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,2,Tidak,5532,4648,162.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,16525,1014,150.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,6700,1750,230.0,300.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2873,1872,132.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Ya,16667,2250,86.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,2947,1603,128.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Belum Menikah,0,Tidak,4350,0,154.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3095,0,113.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2083,3150,128.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,10833,0,234.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,8333,0,246.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,1958,2436,131.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,2,Tidak,3547,0,80.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,18333,0,500.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Ya,4583,2083,160.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2435,0,75.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2699,2785,96.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,5333,1131,186.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3691,0,110.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Belum Menikah,0,Ya,17263,0,225.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3597,2157,119.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Sudah Menikah,1,Tidak,3326,913,105.0,84.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2600,1700,107.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,4625,2857,111.0,12.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Ya,2895,0,95.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6283,4416,209.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,645,3683,113.0,480.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,3159,0,100.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,4865,5624,208.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,4050,5302,138.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3814,1483,124.0,300.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3510,4416,243.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,20833,6667,480.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3583,0,96.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,2479,3013,188.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,1,Tidak,13262,0,40.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3598,1287,100.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,6065,2004,250.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3283,2035,148.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2130,6666,70.0,180.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,5815,3666,311.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,3466,3428,150.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,2,Tidak,2031,1632,113.0,480.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3074,1800,123.0,360.0,tidak memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,4683,1915,185.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,3400,0,95.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,2192,1742,45.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2500,0,55.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Ya,5677,1424,100.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,7948,7166,480.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4680,2087,128.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Ya,17500,0,400.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3775,0,110.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,5285,1430,161.0,360.0,tidak memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,1,Tidak,2679,1302,94.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,6783,0,130.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,1025,5500,216.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4281,0,100.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,2,Tidak,3588,0,110.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,1,Tidak,11250,0,196.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Ya,18165,0,125.0,360.0,memenuhi,Ya,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,2550,2042,126.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,6133,3906,324.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,2,Tidak,3617,0,107.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2917,536,66.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,6417,0,157.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,1,Tidak,4608,2845,140.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2138,0,99.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,1,Tidak,3652,0,95.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,2239,2524,128.0,360.0,memenuhi,Ya,perkotaan,Ya
+Wanita,Sudah Menikah,0,Tidak,3017,663,102.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2768,1950,155.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3358,0,80.0,36.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2526,1783,145.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,5000,0,103.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2785,2016,110.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,6633,0,128.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,2492,2375,128.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,3333,3250,158.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2454,2333,181.0,360.0,tidak memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3593,4266,132.0,180.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,5468,1032,26.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2667,1625,84.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Ya,10139,0,260.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3887,2669,162.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,0,Tidak,4180,2306,182.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3675,242,108.0,360.0,memenuhi,Ya,pedesaan,Ya
+Wanita,Sudah Menikah,1,Ya,19484,0,600.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5923,2054,211.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Ya,5800,0,132.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,8799,0,258.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,4467,0,120.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3333,0,70.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,3400,2500,123.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Wanita,Belum Menikah,0,Tidak,2378,0,9.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3166,2064,104.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3417,1750,186.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,5116,1451,165.0,360.0,tidak memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,16666,0,275.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,6125,1625,187.0,480.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Sudah Menikah,3,Tidak,6406,0,150.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,2,Tidak,3159,461,108.0,84.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3087,2210,136.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,3229,2739,110.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,1782,2232,107.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3182,2917,161.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,6540,0,205.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,1836,33837,90.0,360.0,memenuhi,Tidak,perkotaan,Tidak
+Wanita,Sudah Menikah,0,Tidak,3166,0,36.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,1880,0,61.0,360.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,2787,1917,146.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,4283,3000,172.0,84.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2297,1522,104.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Tidak,2165,0,70.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,4750,0,94.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,2726,0,106.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,3000,3416,56.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,6000,0,205.0,240.0,memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Belum Menikah,3,Ya,9357,0,292.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3859,3300,142.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Ya,16120,0,260.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3833,0,110.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Ya,6383,1000,187.0,360.0,memenuhi,Ya,pedesaan,Tidak
+Laki-laki,Belum Menikah,0,Tidak,2987,0,88.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
+Laki-laki,Sudah Menikah,0,Ya,9963,0,180.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,5780,0,192.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,3,Tidak,416,41667,350.0,180.0,memenuhi,Tidak,perkotaan,Tidak
+Laki-laki,Sudah Menikah,0,Tidak,2894,2792,155.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,5703,0,128.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Belum Menikah,0,Tidak,3676,4301,172.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Sudah Menikah,1,Tidak,12000,0,496.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,2400,3800,128.0,180.0,memenuhi,Ya,perkotaan,Tidak
+Laki-laki,Sudah Menikah,1,Tidak,3400,2500,173.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,3987,1411,157.0,360.0,memenuhi,Ya,pedesaan,Ya
+Laki-laki,Sudah Menikah,0,Tidak,3232,1950,108.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Wanita,Belum Menikah,0,Tidak,2900,0,71.0,360.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,3,Tidak,4106,0,40.0,180.0,memenuhi,Tidak,pedesaan,Ya
+Laki-laki,Sudah Menikah,1,Tidak,8072,240,253.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Laki-laki,Sudah Menikah,2,Tidak,7583,0,187.0,360.0,memenuhi,Tidak,perkotaan,Ya
+Wanita,Belum Menikah,0,Ya,4583,0,133.0,360.0,tidak memenuhi,Tidak,pedesaan,Tidak
